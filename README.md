@@ -1,2 +1,2 @@
 # UPSTAC-API
-Backend API for the UPSATC application
+Backend API for the UPSTAC application
